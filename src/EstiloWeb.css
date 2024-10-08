@@ -2,16 +2,14 @@ body {
     background-color: #f0f0f0;
     text-align: center;
 }
-<<<<<<< HEAD
 
 h1 {
     color: aqua;
     font-size: 20px;
-=======
+}
 p{
     color: red;
 }
 a{
     color: blue;
->>>>>>> 6ad5fb29dec1170774b63f3f640c5d1825ac52b3
 }
